@@ -2,198 +2,198 @@
 {
 	"***Map made by Tenshi***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Tenshi（比那名居天子） 翻译：小野冢小町 **"
 	}
 	"***Inspiration comes from kz_otakuroom***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图创作的灵感源于：kz_otakuroom（KZ地图） **"
 	}
 	"***Special thanks:GemaYue , Yinyuexiaoyao***"
 	{
-		"chi"		"** **"
+		"chi"		"** 特别感谢：GemaYue , Yinyuexiaoyao **"
 	}
 	"***Level 1:Explore Otakuroom***"
 	{
-		"chi"		"** **"
+		"chi"		"** 第一关：初见御宅房间 **"
 	}
 	"***Run to the pillow forward***"
 	{
-		"chi"		"** **"
+		"chi"		"** 往枕头的方向跑去 **"
 	}
 	"***Wind has been picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"** 飓风已被捡起 **"
 	}
 	"** Wall has been picked up**"
 	{
-		"chi"		"** **"
+		"chi"		"** 墙壁已被捡起 **"
 	}
 	"***N has beed pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已按下N键 **"
 	}
 	"***H has been pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已按下H键 **"
 	}
 	"***I has been pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已按下I键 **"
 	}
 	"***T has beed pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已按下T键 **"
 	}
 	"***E has been pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已按下E键 **"
 	}
 	"***S has been pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已按下S键 **"
 	}
 	"***Good job! All the letters have been pressed***"
 	{
-		"chi"		"** **"
+		"chi"		"** 做得好宅男们！所有字母已被按下！ **"
 	}
 	"***The mouse moving in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 鼠标将在10秒后移动开 **"
 	}
 	"***Press six letters on the keyboard***"
 	{
-		"chi"		"** **"
+		"chi"		"** 迅速按下6个键盘字母来解开电脑密码 **"
 	}
 	"***The key is TENSHI***"
 	{
-		"chi"		"** **"
+		"chi"		"** 密码是：TENSHI **"
 	}
 	"***Run to the keyboard***"
 	{
-		"chi"		"** **"
+		"chi"		"** 往键盘的方向跑去 **"
 	}
 	"***Zombies go to quadratic element in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸将在10秒内传送至二次元 **"
 	}
 	"***One door broken***"
 	{
-		"chi"		"** **"
+		"chi"		"** 门已被打开 **"
 	}
 	"***3***"
 	{
-		"chi"		"** **"
+		"chi"		"** 3秒 **"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"** 2秒 **"
 	}
 	"***1***"
 	{
-		"chi"		"** **"
+		"chi"		"** 1秒 **"
 	}
 	"***Level 3:Looking for Tenshi***"
 	{
-		"chi"		"** **"
+		"chi"		"** 第三关：万里追寻天子 **"
 	}
 	"***Level 2:Rescue my imouto***"
 	{
-		"chi"		"** **"
+		"chi"		"** 第二关：拯救你的妹子 **"
 	}
 	"***Card teleporter activated in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 卡牌将在30秒后传送（别忘了站在上面） **"
 	}
 	"***5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩5秒 **"
 	}
 	"***Door opening in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 门将在20秒后开启 **"
 	}
 	"***Go Go Go!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 快走！！ **"
 	}
 	"***Pass the domino***"
 	{
-		"chi"		"** **"
+		"chi"		"** 穿过多米诺骨牌 **"
 	}
 	"***AFK teleport in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** AFK玩家将在15秒后传送（别看那些萌物了，你们是得不到的，宅男们！） **"
 	}
 	"***Card leaves in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 卡牌将在20秒离开，没上去就速度!v 自爆吧！**"
 	}
 	"***Zombies teleported in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 僵尸将于10秒后传送 **"
 	}
 	"***Teleporter activated in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 传送点将于40秒后启动 **"
 	}
 	"***10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩10秒 **"
 	}
 	"***Jump!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 快跳！！ **"
 	}
 	"***AFK teleport in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** AFK玩家将在10秒后传送（别看那些萌物了，你们是得不到的，宅男们！）**"
 	}
 	"***Card leaves in 60 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 卡牌将于60秒后离开，没上去就速度!v 自爆吧！**"
 	}
 	"***Telepoter activated in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 传送点将于20秒后启动 **"
 	}
 	"***Heal has been picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"** 治疗已被捡起 **"
 	}
 	"***Look! Its Efreet!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 快看！琴里妹子愿意见我们了！不对，她好像发起了攻击！**"
 	}
 	"***Efreet used Camael:Megiddo***"
 	{
-		"chi"		"** **"
+		"chi"		"** 琴里发射了灼烂歼鬼·炮（CamaelMegiddo）！！**"
 	}
 	"***Efreet used Space earthquake***"
 	{
-		"chi"		"** **"
+		"chi"		"** 琴里的能量突然剧增，空间出现了震动！！**"
 	}
 	"***Efreet used Camael:Slash***"
 	{
-		"chi"		"** **"
+		"chi"		"** 琴里发射了灼烂歼鬼·刃（Camael:Slash）！！**"
 	}
 	"***Efreet used Elohim Gibor:healed 150HP***"
 	{
-		"chi"		"** **"
+		"chi"		"** 琴里增强了神威灵装·五番（Elohim Gibor）的能量，为自己补充150HP！！**"
 	}
 	"***Efreet is dead***"
 	{
-		"chi"		"** **"
+		"chi"		"** 琴里没能量了！为了避免爆衣迅速离开了我们！！（别追了宅男们！僵尸来了！）**"
 	}
 	"***Card leaves in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 卡牌将于40秒后离开，没上去就速度!v 自爆吧！ **"
 	}
 	"***Run to the other Card***"
 	{
-		"chi"		"** **"
+		"chi"		"** 快跑向其它的卡牌！ **"
 	}
 	"***The second Card leaves in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 第二张卡牌10秒后离开，再上不去就真的GG啦！**"
 	}
 }
